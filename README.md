@@ -61,7 +61,7 @@ I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and technica
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/shadab703/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+![ViewCount](https://views.whatilearened.today/views/github/shadab703/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/shadab703/)
 
 </div>
 
