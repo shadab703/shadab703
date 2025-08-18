@@ -7,7 +7,7 @@ I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and technica
 **Currently I am working ...**
 
 - <div>
-    ... as a <strong>Freelancer</strong> for a US based organization- Hopsteiner, where I am working on designing & developing an internal web application to analyze, integrate, access, and visualize hop data.
+    as a <strong>Freelancer</strong> for a US based organization- Hopsteiner, where I am working on designing & developing an internal web application to analyze, integrate, access, and visualize hop data.
     <br />
     <strong>Tech Stack: </strong> ReactJS, Javascript, Typescript, NodeJS, ExpressJS, MySQL, AWS 
     <br /> 
@@ -15,8 +15,7 @@ I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and technica
   </div>
   
 - <div>
-    <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" style="margin-left: -10px" >
-    ... as a <strong>Technical Content Writer</strong> at Geeks for Geeks where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithms concepts.
+    as a <strong>Technical Content Writer</strong> at Geeks for Geeks where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithms concepts.
   </div> 
 
  ---
