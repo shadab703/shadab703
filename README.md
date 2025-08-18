@@ -33,8 +33,6 @@ I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and Data Sci
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
 
@@ -43,7 +41,7 @@ I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and Data Sci
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+   
    
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
