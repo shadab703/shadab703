@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
+I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and Data Scientist with a demonstrated history of working in the information technology and services industry.
 
  ---
  
@@ -12,10 +12,6 @@ I'm Sayyed Shadab Siddiqui, an experienced full stack web developer and technica
     <strong>Tech Stack: </strong> ReactJS, Javascript, Typescript, NodeJS, ExpressJS, MySQL, AWS 
     <br /> 
     <br /> 
-  </div>
-  
-- <div>
-    as a <strong>Technical Content Writer</strong> at Geeks for Geeks where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithms concepts.
   </div> 
 
  ---
