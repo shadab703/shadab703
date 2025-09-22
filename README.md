@@ -1,40 +1,44 @@
-# Hi, I'm Shadab Siddiqui 👋
+# Hi, I'm Shadab! 👋
 
-**Data Scientist | AI Enthusiast | Pythonista**
+## 🚀 Software Engineer | Full Stack Developer
 
-Welcome to my GitHub! I specialize in transforming data into actionable insights and building smart solutions with machine learning and AI.
-
----
-
-## 🚀 Skills & Tools
-
-- **Programming:** Python, SQL
-- **Machine Learning & AI:** TensorFlow, Scikit-learn, Deep Learning
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
+Welcome to my GitHub! I'm a passionate Full Stack Developer with experience building scalable web and mobile applications. I love working with cutting-edge technologies and solving complex problems.
 
 ---
 
-## 🌟 Featured Projects
+### 🛠️ Tech Stack
 
-
-## 🏆 Achievements
-
-- Built scalable data pipelines and deployed ML models in production.
-- Contributed to open-source projects in AI and data science.
-- Always exploring new ways to make data useful and accessible.
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/Ishadabsiddiqui)
+- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, Django, Flask, Spring Boot
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase
+- **Cloud & DevOps:** Docker, AWS, Heroku, Netlify, Vercel
+- **Mobile:** React Native, Flutter
+- **Others:** Git, GitHub Actions, REST APIs, GraphQL, WebSockets
 
 ---
 
-## 💡 Fun Fact
+### 📈 GitHub Stats
 
-When I'm not crunching numbers, you might find me exploring new tech, reading about AI breakthroughs, or experimenting with data visualization tools!
+![Shadab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadab703&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadab703&layout=compact&theme=radical)
 
 ---
 
-_Thanks for visiting my profile!_ 😊
+### 🌟 Featured Projects
+
+- [Gocart Ecommerce](https://github.com/shadab703/gocart-ecommerce) – Modern e-commerce platform
+- [QuickShow](https://github.com/shadab703/QuickShow) – Presentation application
+- [Hotel Bookings](https://github.com/shadab703/Hotel-Bookings) – Hotel reservation system
+- [QuickGPT](https://github.com/shadab703/QuickGPT) – AI-powered chatbot
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/shadab703)
+- [Twitter](https://twitter.com/shadab703)
+- [Email](mailto:your.email@example.com)
+
+---
+
+> "Striving for excellence, one commit at a time."
