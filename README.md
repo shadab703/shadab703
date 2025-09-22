@@ -16,18 +16,6 @@ Welcome to my GitHub! I specialize in transforming data into actionable insights
 
 ## 🌟 Featured Projects
 
-- [**Gocart Ecommerce**](https://github.com/shadab703/gocart-ecommerce)  
-  End-to-end ecommerce platform with smart recommendations and analytics.
-- [**QuickShow**](https://github.com/shadab703/QuickShow)  
-  Fast and interactive data visualization toolkit for data scientists.
-- [**Hotel Bookings**](https://github.com/shadab703/Hotel-Bookings)  
-  Predictive modeling and analysis for hotel bookings datasets.
-- [**QuickGPT**](https://github.com/shadab703/QuickGPT)  
-  Custom GPT-powered chatbot and text generation service.
-- [**DeepSeek**](https://github.com/shadab703/DeepSeek)  
-  Exploratory data analysis and deep learning experiments.
-
----
 
 ## 🏆 Achievements
 
