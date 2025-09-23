@@ -1,4 +1,4 @@
-# Hi, I'm Shadab! 👋
+# Hi, I'm Shadab Siddiqui! 👋
 
 ## 🚀 Software Engineer | Full Stack Developer
 
